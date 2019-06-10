@@ -5,7 +5,9 @@ public static void main(String[] args) {
 	
 	System.out.println("Good Evening Class!");
 	
-	System.out.println("My name is Ed");
+	for(int i = 0; i<8; i++) {
+		System.out.println("Winter is coming");
+	}
 	
 }
 }
